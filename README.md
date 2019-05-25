@@ -49,7 +49,7 @@ Harakiri Doll brinda el servicio de confección de prendas a medida de estilo ha
 
 ## Objetivo del proyecto
 
-Este proyecto tiene como objetivo evaluar las fortalezas y debilidades de venta de la tienda "Harakiri Doll", además de conocer al público usuario de estos productos, determinando si es que tienen alguna dificultad al momento de mandar a confeccionar una prenda. Se evaluará si la solución es la creación de una página e-commerce, el flujo de compra e información que debe tener para poder crear una experiencia grata y placentera a lo usuarios, tanto nacionales como internacionales.
+Este proyecto tiene como objetivo evaluar las fortalezas y debilidades de venta de la tienda "Harakiri Doll", además de conocer al público usuario de estos productos, determinando si es que tienen alguna dificultad al momento de mandar a confeccionar una prenda. Se evaluará si la solución es la creación de una página e-commerce, el flujo de compra e información que debe tener para poder crear una experiencia grata y placentera a los usuarios, tanto nacionales como internacionales.
 
 Cabe resaltar, que el enfoque de nuestro proyecto estará basado en las **PRENDAS A MEDIDA** (estilo lolita)
 
@@ -124,7 +124,7 @@ Queríamos saber y entender las necesidades de los clientes y potenciales client
 
 - [Guías de entrevistas y audios](https://drive.google.com/drive/folders/1jM6RriZjtHbMgyHOtVBsPNOMHbbK86yp)
 
-* Conclusiones de entrevistas
+
 
 
 
@@ -184,6 +184,9 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 
 
 
+#### PLANTEAMIENTO DE LA SOLUCIÓN 
+
+
 #### MAPA DE SITIO
 
 <p align="center">
@@ -200,7 +203,7 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 <img src="http://i66.tinypic.com/ndqumq.png">
 </p>
 
-#### PLANTEAMIENTO DE LA SOLUCIÓN 
+
 
 
 ##  3. IDEACION , PROTOTIPADO Y USER TESTING
@@ -358,7 +361,7 @@ Tomamos en cuenta todos los comentarios del primer testing  e insertamos las sig
 
 <p  align="center">
 
-<img  src="http://i68.tinypic.com/2a68th3.jpg"  width="400">
+<img  src="http://i68.tinypic.com/2a68th3.jpg"  width="700">
 
 </p>
 
