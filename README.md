@@ -196,7 +196,9 @@ Ahora pensaremos las posibles soluciones para nuestros "problem statements".
 <img src="http://i67.tinypic.com/2zdsx7m.jpg">
 </p>
 
-
+<p align="center">
+<img src="http://i66.tinypic.com/ndqumq.png">
+</p>
 
 #### PLANTEAMIENTO DE LA SOLUCIÓN 
 
