@@ -342,7 +342,6 @@ Tomamos en cuenta todos los comentarios del primer testing  e insertamos las sig
 - Cambiamos el color de los botones principales (de D6D6D6 a D4847E)
 - Al momento de seleccionar un vestido de la colección, se tendrá un carrusel donde se podrán visualizar todos los vestidos, si es que el usuario desliza su dedo para el lado derecho.
 
-Realizamos el testing a una usuaria y para ello les pedimos que realizaran 2 tareas: 
 
   
   
@@ -359,7 +358,7 @@ Realizamos el testing a una usuaria y para ello les pedimos que realizaran 2 tar
 
 <p  align="center">
 
-<img  src=""  width="300">
+<img  src="http://i68.tinypic.com/2a68th3.jpg"  width="400">
 
 </p>
 
