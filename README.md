@@ -175,7 +175,31 @@ Ahora que ya conocemos al nuestro cliente (User Persona) y sabemos sus necesidad
 </p>
 
 ##### HOW MIGHT WE / CÓMO PODRÍAMOS
-Ahora pensaremos las posibles soluciones para nuestros "problem statements".
+
+Después de identificar nuestro problem statements, se procedió a definir los "How might we" correspondientes. Aquí los resultados:
+
+How might we...
+
+
+HMW hacer que el proceso de compra sea más rápido para el usuario?
+HMW  hacer que el pago sea rápido como dar un clic?
+HMW hacemos que el pago del producto sea tan fácil como sacar dinero de un cajero?
+HMW hacer que la experiencia de compra del producto sea tan rápida como pedir una pizza?
+HMW hacer que se sientan seguros a la hora de pago online?
+HMW hacer que el pago sea como pagar personalmente sin correr riesgos de estafa? (nuevas usuarias)
+HMW eliminar el miedo a ser estafado durante el pago?
+HMW aprovechar el pago online  para generar tranquilidad?
+
+HMW hacer que el tiempo de entrega sea la que se ha acordado?
+HMW que el tiempo de espera sea divertida y no preocupante?
+HMW ayudar a que la experiencia de espera de producto sea agradable al usuario?
+HMW hacer que la espera del producto sea lo más emocionante para el usuario?
+HMW quitar la espera del proceso de adquisición del producto?
+HMW utilizar el tiempo de espera de un producto para que conozca a personas de la comunidad?
+HMW hacer que los usuarios deseen la espera como proceso de compra?
+
+
+
 <p align="center">
 <img src="">
 </p>
