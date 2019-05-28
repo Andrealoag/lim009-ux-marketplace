@@ -197,13 +197,13 @@ Después de identificar nuestro problem statements, se procedió a definir los "
 
 
 
+
+
+#### DEFINICIÓN DEL PRODUCTO
+
 <p align="center">
-<img src="">
+<img src="http://i63.tinypic.com/2rw81nt.jpg">
 </p>
-
-
-
-
 
 #### PLANTEAMIENTO DE LA SOLUCIÓN
 En esta ocasión y gracias a la síntesis hecha del research correspondiente, evaluamos que la creación de una página e-commerce para este negocio es necesaria, por lo cual en cuanto a las necesidades del cliente, usuario y los principales problemas encontrados, hemos propuesto las siguientes soluciones:
