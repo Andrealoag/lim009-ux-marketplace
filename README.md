@@ -418,5 +418,5 @@ Tomamos en cuenta todos los comentarios del primer testing  e insertamos las sig
 [Link a documentación en Google Drive](https://drive.google.com/drive/folders/1coUuJZ8lqsTP3nShjLnNhFqDDMnXslmu)
 
 ## Video en Loom
-[Link a video de explicación del proyecto]()
+[Link a video de explicación del proyecto](https://www.loom.com/share/24612882c78b458b9d8af4481811560d)
 
