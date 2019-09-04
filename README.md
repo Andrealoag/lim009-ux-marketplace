@@ -202,14 +202,21 @@ Después de identificar nuestro problem statements, se procedió a definir los "
 #### DEFINICIÓN DEL PRODUCTO
 
 <p align="center">
+<<<<<<< HEAD
 <img src="images/16.jpg">
+=======
+<img src="http://i67.tinypic.com/zv7vro.jpg">
+>>>>>>> d5ea6f064f0905a1c81737eda864d0d678242597
 </p>
 
 #### PLANTEAMIENTO DE LA SOLUCIÓN
 En esta ocasión y gracias a la síntesis hecha del research correspondiente, evaluamos que la creación de una página e-commerce para este negocio es necesaria, por lo cual en cuanto a las necesidades del cliente, usuario y los principales problemas encontrados, hemos propuesto las siguientes soluciones:
 - Implementamos la opción de pago online, al ser una opción aclamada por los usuarios por su rapidez y costumbre al momento de usuarla, ahora las personas que quieran mandar un pedido de vestuarios a medida podrán registrarse y pagar con Visa, Mastercar o Paypal.
+
 - Implementamos 2 flujos de compra: En el primer flujo, el usuario podrá anexar fotos de la prenda que desee que se confeccione, además de sus medidas y comentarios adicionales y en el segundo flujo, el usuario podrá escoger una prenda de la colección más reciente de la diseñadora y pedir que se la confeccionen a su medida.
+
 - Implementamos un registro que permitirá al usuario tener una cuenta en la página en donde se le avisará cuando su solicitud haya sido aceptada, además de poner sus datos personales y de compra como tarjeta y dirección de envío.
+
 - Implementamos un aviso de la fecha estimada de contestación de la petición de confección y el tiempo de envío al destino deseado.
  
 
@@ -408,5 +415,5 @@ Tomamos en cuenta todos los comentarios del primer testing  e insertamos las sig
 [Link a documentación en Google Drive](https://drive.google.com/drive/folders/1coUuJZ8lqsTP3nShjLnNhFqDDMnXslmu)
 
 ## Video en Loom
-[Link a video de explicación del proyecto]()
+[Link a video de explicación del proyecto](https://www.loom.com/share/24612882c78b458b9d8af4481811560d)
 
