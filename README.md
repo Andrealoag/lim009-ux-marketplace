@@ -13,7 +13,7 @@ La comunidad harajuku en nuestro país ha estado latente desde comienzos del sig
 
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/2uiiyj9.jpg">
+<img  src="images/1.jpg">
 
 </p>
 
@@ -28,19 +28,19 @@ Harakiri Doll brinda el servicio de confección de prendas a medida de estilo ha
 
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/dxof8g.jpg" width="300">
+<img  src="images/2.png" width="300">
 
 </p>
 
 <p  align="center">
 
-<img  src="http://i66.tinypic.com/245he37.png" width="300">
+<img  src="images/3.jpg" width="300">
 
 </p>
 
 <p  align="center">
 
-<img  src="http://i66.tinypic.com/28lvy9c.png" width="300">
+<img  src="images/4.png" width="300">
 
 </p>
 
@@ -77,7 +77,7 @@ Para realizar este proyecto hemos escogido  y utilizado las siguientes actividad
 El inicio de nuestra investigación fue investigar el flujo de compra que Harakiri Doll estaba ofreciendo a sus usuarios y para esto pudimos identificar que utilizaban tanto facebook como instagram para la promoción de sus prendas y próxima venta. A continuación un cuadro comparativo de sus 2 redes sociales.
 
  <p align="center">
-<img src="http://i65.tinypic.com/24boqgw.jpg">
+<img src="images/5.jpg">
 </p>
 
 ### Hidden user
@@ -93,17 +93,17 @@ Considera que la tienda es estacional y nos pidió enfocarnos en los vestidos lo
 - [Guías de entrevistas y audios](https://drive.google.com/drive/folders/15qVUF07t37MkCdLYa4gtMvhYq8PCzp48)
 
 <p align="center">
-<img src="http://i68.tinypic.com/102kqo7.jpg" width="400"> <img src="http://i67.tinypic.com/70uuzk.jpg" width="400">
+<img src="images/6.jpg"width="400"> <img src="images/7.jpg" width="400">
 </p> 
 
 ### BENCHMARK
 
 Dividimos el benchmark en dos, ya que nuestro servicio es confección de vestidos lolita a medida, ya sea por una referencia (foto) o un vestido de nuestra colección, por lo cuál para entender al usuario y al flujo de compra que se debe tener para confeccionar una prenda tuvimos los siguientes resultados.
 <p align="center">
-<img src="http://i66.tinypic.com/2igdm5u.jpg" width="700">
+<img src="images/8.jpg" width="700">
 </p>
 <p align="center">
-<img src="http://i63.tinypic.com/21b6p3o.jpg" width="700" >
+<img src="images/9.jpg" width="700" >
 </p>
 
 #### Planteamiento del problema:
@@ -130,7 +130,7 @@ Queríamos saber y entender las necesidades de los clientes y potenciales client
 
 
 <p align="center">
-<img src="http://i66.tinypic.com/2chx7xx.jpg" width="500">
+<img src="images/10.jpg" width="500">
 </p>
 
 
@@ -139,10 +139,10 @@ Queríamos saber y entender las necesidades de los clientes y potenciales client
 #### AFFINITY MAP
 Después de las entrevistas con nuestros usuarios, nos dispusimos agrupar las citas más relevantes de toda  la información dicha:
 <p align="center">
-<img src="http://i63.tinypic.com/28vaxcj.jpg"width="500">
+<img src="images/11.jpg"width="500">
 </p>
 <p align="center">
-<img src="http://i68.tinypic.com/c3h2p.jpg"width="500">
+<img src="images/12.jpg"width="500">
 </p>
 
 Donde pudimos rescatar los siguientes puntos:
@@ -153,14 +153,14 @@ Donde pudimos rescatar los siguientes puntos:
 #### USER PERSONA
 Nuestro usuario ideal esta representado por "Sthephanie", una diseñadora gráfica que viste de forma casual y sin llamar la atención en su trabajo, pero que utiliza el estilo lolita fuera de este. Le encantan los colores oscuros y las faldas con mucho vuelo. Hace sus compras en Alliexprese, ya que el método de pago es rápido, pero también compra compra en Harakiri Doll y Cuteberry.
 <p align="center">
-<img src="http://i64.tinypic.com/2ajz3th.png">
+<img src="images/13.png">
 </p>
 
 #### CUSTOMER JOURNEY MAP 
 
 
 <p align="center">
-<img src="http://i67.tinypic.com/2ag689z.png">
+<img src="images/14.png">
 </p>
 
 - [Customer journey map HD](https://www.figma.com/proto/bbMTlqQVdVuGuIZM5rZcE0/HD-3ra-presentaci%C3%B3n?node-id=2%3A5&scaling=min-zoom)
@@ -171,7 +171,7 @@ Nuestro usuario ideal esta representado por "Sthephanie", una diseñadora gráfi
 ##### PROBLEM STATEMENTS
 Ahora que ya conocemos al nuestro cliente (User Persona) y sabemos sus necesidades, identificaremos los problemas para buscar los posibles soluciones.
 <p align="center">
-<img src="http://i67.tinypic.com/s2xg0j.jpg">
+<img src="images/15.jpg">
 </p>
 
 ##### HOW MIGHT WE / CÓMO PODRÍAMOS
@@ -202,7 +202,7 @@ Después de identificar nuestro problem statements, se procedió a definir los "
 #### DEFINICIÓN DEL PRODUCTO
 
 <p align="center">
-<img src="http://i63.tinypic.com/2rw81nt.jpg">
+<img src="images/16.jpg">
 </p>
 
 #### PLANTEAMIENTO DE LA SOLUCIÓN
@@ -217,17 +217,17 @@ En esta ocasión y gracias a la síntesis hecha del research correspondiente, ev
 #### MAPA DE SITIO
 
 <p align="center">
-<img src="http://i63.tinypic.com/mtund.jpg">
+<img src="images/17.jpg">
 </p>
 
 #### USER FLOW
 
 <p align="center">
-<img src="http://i67.tinypic.com/2zdsx7m.jpg">
+<img src="images/18.jpg">
 </p>
 
 <p align="center">
-<img src="http://i66.tinypic.com/ndqumq.png">
+<img src="images/19.png">
 </p>
 
 
@@ -241,7 +241,7 @@ En esta ocasión y gracias a la síntesis hecha del research correspondiente, ev
 
 <p  align="center">
 
-<img  src="http://i68.tinypic.com/10qmiiq.png" >
+<img  src="images/20.png" >
 
   
 
@@ -270,7 +270,7 @@ En esta ocasión y gracias a la síntesis hecha del research correspondiente, ev
 
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/j5xdhu.png">
+<img  src="images/21.png">
 
 </p>
 
@@ -292,7 +292,7 @@ En esta ocasión y gracias a la síntesis hecha del research correspondiente, ev
 
 <p  align="center">
 
-<img  src="http://i68.tinypic.com/ehf59l.png"  >
+<img  src="images/22.png"  >
 </p>
 
 <p  align="center">
@@ -400,13 +400,6 @@ Tomamos en cuenta todos los comentarios del primer testing  e insertamos las sig
 
 ## Link de Figma(mobile)
 [Link a prototipo navegable](https://www.figma.com/file/CemttTIStb23CvmxOBktZfHW/HD-Alta?node-id=0%3A1)
-
-## Prototipo navegable(desktop) FALTA EDITAR
-[Link a prototipo navegable](https://www.figma.com/proto/WEdZh6AFf7dAMT1tykPDZ5HN/HD-Desktop?node-id=34%3A2&scaling=scale-down-width)
-
-## Link de Figma(desktop) FALTA EDITAR
-[Link a prototipo navegable](https://www.figma.com/file/WEdZh6AFf7dAMT1tykPDZ5HN/HD-Desktop?node-id=0%3A1)
-
 
 ## Link de Zeplin
 [Link a Zeplin](zpl.io/beA7ZLm)
