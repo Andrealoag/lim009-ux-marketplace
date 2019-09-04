@@ -323,6 +323,7 @@ En esta ocasión y gracias a la síntesis hecha del research correspondiente, ev
 
 ###  Prototipo de Alta fidelidad
 
+
 ###  Primer prototipo de alta fidelidad
 
 Tomamos en cuenta todos los testing de baja fidelidad insertamos las siguientes mejoras:
@@ -401,6 +402,8 @@ Tomamos en cuenta todos los comentarios del primer testing  e insertamos las sig
 
 
 # Enlaces 
+
+
 
 ## Prototipo navegable(mobile)
 [Link a prototipo navegable](https://www.figma.com/proto/CemttTIStb23CvmxOBktZfHW/HD-Alta?node-id=341%3A0&scaling=min-zoom)
